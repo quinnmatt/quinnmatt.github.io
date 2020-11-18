@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pragmatic Sailor</title>
+    <description>A sailing blog about pragmatic stuff
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 18 Nov 2020 14:16:07 -0500</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2020 14:16:07 -0500</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Mast Step Repair - Beginning</title>
+        <description>&lt;p&gt;This will be the first in a series of posts about replacing the mast step on our 1989 Sabre 36, Glendi. The information here is both a summary of dozens of email discussions and phone calls with Sabre owners who have already dealt with this as well as an archival of my experience fixing the issue. My hope is that this can serve as a guide for anyone who encounters this problem to save some frustration and maybe even a few boats.&lt;/p&gt;
+
+&lt;h1 id=&quot;distant-early-warnings&quot;&gt;Distant early warnings&lt;/h1&gt;
+&lt;p&gt;Do you have a Sabre that is keeled stepped? If yes, read on. Note, this is probably more expansive than necessary as the issue does seem to be limited to certain models and years, however better safe than sorry.&lt;/p&gt;
+
+&lt;p&gt;The first indication that we had suffered the dreaded mast step rot, or mast step disease, was a cracked mast step plate. We noticed this when launching the boat in the Spring. Note, we had purchased the boat just a year prior and I knew about the issue when we bought it. It was inspected by a surveyor, me, and my broker, a fellow Sabre owner, and we all missed it. This issue hides itself very well, and although the symptoms below are early warning signs, the only way to definitively tell is to remove the mast and drill test bores. If the bores come up wet, you’re cooked. If they are dry, thank Poseidon, throw some epoxy in the hole, and go sailing.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-are-the-symptoms-of-sabre-mast-step-rot&quot;&gt;What are the symptoms of Sabre mast step rot?&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2020-11-17-mast-step-1/begin-mast-step-demo - 1.jpeg&quot; width=&quot;250&quot; style=&quot;float:right; padding:16px&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Smelly bilge water when on a tack&lt;/li&gt;
+  &lt;li&gt;Deflection of the step itself&lt;/li&gt;
+  &lt;li&gt;Visible water damage to the sole around the step, usually in front of the head&lt;/li&gt;
+  &lt;li&gt;Visible water damage to the bulkhead next to the step&lt;/li&gt;
+  &lt;li&gt;Visible water damage to the step itself&lt;/li&gt;
+  &lt;li&gt;The step bulging out on the aft side that is visible when the floorboards are removed&lt;/li&gt;
+  &lt;li&gt;Cracked mast step plate (this happens because the step is deflected)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;why-why&quot;&gt;Why? Why?!!&lt;/h1&gt;
+&lt;p&gt;Everyone worth their salt knows Sabres are very well made boats. So how could this happen? Why does it happen? Well, plain and simple it is a massive design flaw, and one that could have been very easily avoided. There are differing opinions as to how the water gets into the step itself, but simply put, water comes down the mast, and spreads out over the area around the step in all directions. It is not directed properly into the bilge and over time, finds a way to penetrate the wood inside the step. Since the wood is mostly sealed, it does not rot, but over decades it gets soft and eventually will fail.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article_images/2020-11-17-mast-step-1/caracol-mast-step-failure.png&quot; /&gt;
+This is the most catastrophic failure I have seen which happened while the owner was sailing and ended up in a scrapped boat. The problem could have easily been avoided by installing a three-sided dam around the step to direct the water aft into the bilge. More on that later.&lt;/p&gt;
+
+&lt;h1 id=&quot;next-step-ha-demolition&quot;&gt;Next step (ha), demolition&lt;/h1&gt;
+
+&lt;p&gt;Not much to explain here. You will have to remove a relatively significant portion of the sole to get to the step and the two stringers that are fore and aft of the step.&lt;/p&gt;
+
+&lt;h1 id=&quot;resources&quot;&gt;Resources&lt;/h1&gt;
+
+&lt;p&gt;All the images from this post, full size:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/article_images/2020-11-17-mast-step-1/begin-mast-step-demo - 1.jpeg&quot;&gt;Cracked plate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/article_images/2020-11-17-mast-step-1/caracol-mast-step-failure.png&quot;&gt;S/V Caracol failure&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All the articles about mast step disease from the &lt;a href=&quot;https://groups.io/g/SabreSailboat/topics&quot;&gt;Sabre owners group&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/72978366&quot;&gt;Mast step question&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/70982994&quot;&gt;Mast step box fix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/77030415&quot;&gt;Cabin Sole Replacement S 34-II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/75223299&quot;&gt;Mast step disease - all models?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/71617092&quot;&gt;Base of mast protection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/78081611&quot;&gt;Mast step rot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/37277166&quot;&gt;Mast step&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/topic/37319357&quot;&gt;Sabre rot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.io/g/SabreSailboat/album?id=111933&quot;&gt;S34 # 67 Step replacement &amp;amp; bhead repair&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 17 Nov 2020 09:34:25 -0500</pubDate>
+        <link>http://localhost:4000/mast/step/2020/11/17/mast-step-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mast/step/2020/11/17/mast-step-1.html</guid>
+        
+        
+        <category>mast</category>
+        
+        <category>step</category>
+        
+      </item>
+    
+      <item>
+        <title>Mediator Features</title>
+        <description>&lt;p&gt;#Mediator Formats and CSS features&lt;/p&gt;
+
+&lt;p&gt;Examples for different formats and css features&lt;/p&gt;
+
+&lt;p&gt;#Header Formats
+#Header1
+##Header2&lt;/p&gt;
+
+&lt;p&gt;#Blockquotes&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;#Lists
+##orderd lists&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;one&lt;/li&gt;
+  &lt;li&gt;two&lt;/li&gt;
+  &lt;li&gt;three&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;##unorderd lists&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Apple&lt;/li&gt;
+  &lt;li&gt;Banana&lt;/li&gt;
+  &lt;li&gt;Plum&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#Links
+This is an &lt;a href=&quot;http://example.com/&quot; title=&quot;With a Title&quot;&gt;example link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;#Combinations&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Apple&lt;/li&gt;
+    &lt;li&gt;Banana&lt;/li&gt;
+    &lt;li&gt;Plum&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 17 Nov 2020 09:34:25 -0500</pubDate>
+        <link>http://localhost:4000/mediator/feature/2020/11/17/mediator_features.html</link>
+        <guid isPermaLink="true">http://localhost:4000/mediator/feature/2020/11/17/mediator_features.html</guid>
+        
+        
+        <category>mediator</category>
+        
+        <category>feature</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <!-- (1) Optimize for mobile versions: http://goo.gl/EOpFl -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- (1) force latest IE rendering engine: bit.ly/1c8EiC9 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>About</title>
+  <meta name="description" content="A sailing blog about pragmatic stuff
+" />
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="MobileOptimized" content="320" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@quinnmatt" />
+    <meta name="twitter:title" content="About" />
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/ps_logo.jpg" />
+    
+    <meta name="twitter:description" content="A sailing blog about pragmatic stuff" />
+    
+  
+  
+  <meta property="og:site_name" content="Pragmatic Sailor" />
+  <meta property="og:title" content="About"/>
+  
+  <meta property="og:description" content="A sailing blog about pragmatic stuff" />
+  
+  <meta property="og:image" content="http://localhost:4000/assets/images/ps_logo.jpg" />
+  <meta property="og:url" content="http://localhost:4000/about/" >
+  <meta property="og:type" content="blog" />
+  
+
+  <link rel="canonical" href="http://localhost:4000/about/"/>
+  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png"/>
+  <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Linux+Libertine:400,400i,700,700i/Open+Sans:400,400i,700,700i">
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+  <link rel="stylesheet" type="text/css" media="print" href="/css/print.css" />
+</head>
+
+  <body itemscope itemtype="http://schema.org/Article">
+    <!-- header start -->
+
+
+  <a href="http://localhost:4000" class="logo-readium"><span class="logo" style="background-image: url(/assets/images/ps_logo.jpg)"></span></a>
+
+<!-- header end -->
+
+    <main class="content" role="main">
+      <article class="post">
+        
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">About</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url()">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        
+        <section class="post-content">
+          <a name="topofpage"></a>
+          <p>This site is meant to archive some of the most basic stuff you need to know, as well as the more involved projects that others might want to learn from, on a sailboat. As the title implies I will focus on pragmatic approaches to maintenance, fixes, and sometimes sailing. Mostly it is intended to make owning an old yacht accessible to folks who may have no idea what they are doing. You won’t have to watch 1000 hours of videos or read a 750 page textbook. It’s the content I wish I had when I started, and that I gained through years of talking to dozens of people and making a million mistakes.</p>
+
+<p>I started sailing sometime around 1994 at <a href="https://www.community-boating.org">Community Boating</a> on the Charles River in Boston.
+<img src="/assets/images/author.jpeg" width="100" style="float:right; padding:16px" />
+A the time it was $175 for the entire year. Now they charge $359. IMHO this is the absolute best deal in Boston and an amazing place to learn to sail. They have a fleet of unsinkable Mercury’s that you can literally ram into the docks unscathed. The staff is incredible and learning to sail from other sailors, on the water, in little tippy boats is the way to go. If you can sail a Mercury you can sail anything.</p>
+
+<p>Our boat is a 1989 Sabre 36 which we purchased from the original owner in April 2019 that we named Glendi. Glendi is a Greek word that loosely translated means the spirit or essence of a party. I sail out of East Falmouth with my wife, Jana, and our two daughters. Our favorite spot is Lake Tashmoo on the Vineyard, and Cuttyhunk or Mnemsha if we’re feeling ambitious.</p>
+
+<p>This blog was created using Jekyll and the Mediator theme which you can download <a href="https://github.com/dirkfabisch/mediator">here</a>.</p>
+
+        </section>
+      </article>
+    </main>
+    <div class="bottom-closer">
+      <div class="background-closer-image"  style="background-image: url(/assets/images/FA8DA539-2351-4C4B-AF11-9A790B5B4D58_1_105_c.jpeg)">
+        Image
+      </div>
+      <div class="inner">
+        <h1 class="blog-title">Pragmatic Sailor</h1>
+        <h2 class="blog-description">A sailing blog about pragmatic stuff
+</h2>
+        <a href=/ class="btn">Back to Overview</a>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/assets/js/index.js"></script>
+<script type="text/javascript" src="/assets/js/readingTime.min.js"></script>
+<script>
+(function ($) {
+  "use strict";
+  $(document).ready(function(){
+
+    var $window = $(window),
+    $image = $('.post-image-image, .teaserimage-image');
+    
+      $window.on('scroll', function() {
+        var top = $window.scrollTop();
+
+        if (top < 0 || top > 1500) { return; }
+        $image
+          .css('transform', 'translate3d(0px, '+top/3+'px, 0px)')
+          .css('opacity', 1-Math.max(top/700, 0));
+      });
+      $window.trigger('scroll');
+
+      var height = $('.article-image').height();
+      $('.post-content').css('padding-top', height + 'px');
+
+      $('a[href*=#]:not([href=#])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+         && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html,body').animate({ scrollTop: target.offset().top }, 500);
+            return false;
+          }
+        }
+      });
+
+  });
+}(jQuery));
+</script>
+
+
+  </body>
+</html>

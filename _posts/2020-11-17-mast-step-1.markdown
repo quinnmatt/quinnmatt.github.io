@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Mast Step Repair - Beginning"
+date:   2020-11-17 14:34:25
+categories: mast step
+image: /assets/article_images/2020-11-17-mast-step-1/D17A012B-5A24-441C-952C-7EF0A8DED072.jpg
+image2: /assets/article_images/2020-11-17-mast-step-1/D17A012B-5A24-441C-952C-7EF0A8DED072.jpg
+---
+
+This will be the first in a series of posts about replacing the mast step on our 1989 Sabre 36, Glendi. The information here is both a summary of dozens of email discussions and phone calls with Sabre owners who have already dealt with this as well as an archival of my experience fixing the issue. My hope is that this can serve as a guide for anyone who encounters this problem to save some frustration and maybe even a few boats.
+
+# Distant early warnings
+Do you have a Sabre that is keeled stepped? If yes, read on. Note, this is probably more expansive than necessary as the issue does seem to be limited to certain models and years, however better safe than sorry.
+
+The first indication that we had suffered the dreaded mast step rot, or mast step disease, was a cracked mast step plate. We noticed this when launching the boat in the Spring. Note, we had purchased the boat just a year prior and I knew about the issue when we bought it. It was inspected by a surveyor, me, and my broker, a fellow Sabre owner, and we all missed it. This issue hides itself very well, and although the symptoms below are early warning signs, the only way to definitively tell is to remove the mast and drill test bores. If the bores come up wet, you're cooked. If they are dry, thank Poseidon, throw some epoxy in the hole, and go sailing.
+
+# What are the symptoms of Sabre mast step rot?
+<img src="/assets/article_images/2020-11-17-mast-step-1/begin-mast-step-demo - 1.jpeg" width=250 style="float:right; padding:16px">
+1. Smelly bilge water when on a tack
+2. Deflection of the step itself
+3. Visible water damage to the sole around the step, usually in front of the head
+4. Visible water damage to the bulkhead next to the step
+5. Visible water damage to the step itself
+6. The step bulging out on the aft side that is visible when the floorboards are removed
+7. Cracked mast step plate (this happens because the step is deflected)
+
+# Why? Why?!!
+Everyone worth their salt knows Sabres are very well made boats. So how could this happen? Why does it happen? Well, plain and simple it is a massive design flaw, and one that could have been very easily avoided. There are differing opinions as to how the water gets into the step itself, but simply put, water comes down the mast, and spreads out over the area around the step in all directions. It is not directed properly into the bilge and over time, finds a way to penetrate the wood inside the step. Since the wood is mostly sealed, it does not rot, but over decades it gets soft and eventually will fail.
+
+<img src="/assets/article_images/2020-11-17-mast-step-1/caracol-mast-step-failure.png">
+This is the most catastrophic failure I have seen which happened while the owner was sailing and ended up in a scrapped boat. The problem could have easily been avoided by installing a three-sided dam around the step to direct the water aft into the bilge. More on that later.
+
+# Next step (ha), demolition
+
+Not much to explain here. You will have to remove a relatively significant portion of the sole to get to the step and the two stringers that are fore and aft of the step.
+
+
+
+
+
+
+
+# Resources
+
+All the images from this post, full size:
+1. [Cracked plate](/assets/article_images/2020-11-17-mast-step-1/begin-mast-step-demo - 1.jpeg)
+2. [S/V Caracol failure](/assets/article_images/2020-11-17-mast-step-1/caracol-mast-step-failure.png)
+
+All the articles about mast step disease from the [Sabre owners group](https://groups.io/g/SabreSailboat/topics):
+1. [Mast step question](https://groups.io/g/SabreSailboat/topic/72978366)
+2. [Mast step box fix](https://groups.io/g/SabreSailboat/topic/70982994)
+3. [Cabin Sole Replacement S 34-II](https://groups.io/g/SabreSailboat/topic/77030415)
+4. [Mast step disease - all models?](https://groups.io/g/SabreSailboat/topic/75223299)
+5. [Base of mast protection](https://groups.io/g/SabreSailboat/topic/71617092)
+6. [Mast step rot](https://groups.io/g/SabreSailboat/topic/78081611)
+7. [Mast step](https://groups.io/g/SabreSailboat/topic/37277166)
+8. [Sabre rot](https://groups.io/g/SabreSailboat/topic/37319357)
+9. [S34 # 67 Step replacement & bhead repair](https://groups.io/g/SabreSailboat/album?id=111933)
