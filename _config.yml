@@ -1,63 +1,18 @@
-# Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
-
 # Site settings
-title: "Pragmatic Sailor"
-description: > # this means to ignore newlines until "email:"
-   A sailing blog about pragmatic stuff
+title: Pragmatic Sailor
+email: pragmaticsailor@gmail.com
+description: Pragmatic stuff about sailing
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+enable_retina: false
+permalink: :title
+nav_list:
+  Home : ['Home', '/', 'fa-home']
+  About : ['About', '/about', 'fa-anchor']
+single_footer: '<p>Dream in a pragmatic way. -Aldous Huxley</p>'
+footer_links:
+    About: ['About', '/about']
 
-email: quinn_matt@yahoo.com
-#blog logo
-logo: "/assets/images/ps_logo.jpg"
-float_logo: true # true, false (default)
 
-# blog cover
-cover: "/assets/images/FA8DA539-2351-4C4B-AF11-9A790B5B4D58_1_105_c.jpeg"
-
-name: 'Matt Quinn'
-author: 'Matt Quinn'
-author_image: "/assets/images/author.jpg"
-
-paginate:	5
-
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@quinnmatt'
-
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-#google_analytics: UA-XXXXX-X
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/quinnmatt
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/quinnmatt
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+# Build settings
+# markdown: kramdown
